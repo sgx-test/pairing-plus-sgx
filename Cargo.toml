@@ -28,7 +28,7 @@ git = "https://github.com/sgx-test/digest-sgx"
 version = "1"
 
 [dependencies.digest]
-git = "https://github.com/sgx-test/digest-sgx"
+git = "https://github.com/mesalock-linux/rustcrypto-traits-sgx"
 version = "0.8"
 features = ["mesalock_sgx","std"]
 
