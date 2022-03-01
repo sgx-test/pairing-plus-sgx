@@ -12,7 +12,7 @@
 
 [package]
 name = "pairing-plus"
-version = "0.19.0"
+version = "0.20.1"
 authors = ["Sean Bowe <ewillbefull@gmail.com>", "Jack Grigg <jack@z.cash>", "Riad S. Wahby <kwantam@gmail.com>", "Zhenfei Zhang <zhenfei@algorand.com>"]
 description = "Pairing-friendly elliptic curve library"
 homepage = "https://github.com/algorand/pairing-plus"
